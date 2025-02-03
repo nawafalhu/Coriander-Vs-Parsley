@@ -11,5 +11,5 @@ The dataset consists of images of coriander and parsley. These images were colle
 ### Dataset Details:
 - **Number of Classes:** 2 (Coriander, Parsley)
 - **Training Images:** 80% of total images
-- **Validation Images:** 20% of total images
+- **Testing Images:** 20% of total images
 - **Image Size:** Resized to 224x224 pixels
